@@ -9,9 +9,9 @@ Atualmente trabalho em [Prefeitura Municipal de Toledo](https://www.toledo.pr.go
 Aprendendo **Python, Clean Code, SOLID**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-jaderanschau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jadernanschau/)](https://www.linkedin.com/in/jadernanschau/)
-[![Instagram Badge](https://img.shields.io/badge/-jaderha-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jaderha/?hl=pt-br)](https://instagram.com/jaderha)
-[![Gmail Badge](https://img.shields.io/badge/-jaderhericks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaderhericksl@gmail.com)](mailto:jaderhericks@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jadernanschau/)](https://www.linkedin.com/in/jadernanschau/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jaderha/?hl=pt-br)](https://instagram.com/jaderha)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jaderhericksl@gmail.com)](mailto:jaderhericks@gmail.com)
 
 ## 🚀💻 Tecnologias & Ferramentas
 
