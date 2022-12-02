@@ -67,4 +67,4 @@ Aprendendo **Ruby on Rails, ReactJS, Clean Code, SOLID**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaderha&hide=TeX&layout=compact)
 
 
-badges by: github.com/Ileriayo/markdown-badges
+<b>Badges by:</b> https://github.com/Ileriayo/markdown-badges
